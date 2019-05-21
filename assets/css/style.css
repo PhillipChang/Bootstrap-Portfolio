@@ -17,3 +17,12 @@ body {
   p {
     font-size:12px;
     }
+  
+  .navbar {
+    padding-top:0;
+    padding-bottom:0;
+  }
+
+  .footer-copyright {
+    font-size:12px;
+  }
