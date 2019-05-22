@@ -1,13 +1,13 @@
 # Bootstrap-Portfolio
 
 ## Index Page
-![Index Page](assets/images/index-page.PNG)
+![Index Page](assets/images/index-page.png)
 
 ## Portfolio Page
-![Portfolio Page](assets/images/portfolio-page.PNG)
+![Portfolio Page](assets/images/portfolio-page.png)
 
 ## Contact Page 
-![Contact Page](assets/images/contact-page.PNG)
+![Contact Page](assets/images/contact-page.png)
 
 
 ## Description
