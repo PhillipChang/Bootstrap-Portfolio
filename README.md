@@ -12,12 +12,13 @@
 
 ## Description
 
-Creating a simple website and making each page responsive to three types of resolutions (980px,768px,640px).
+Creating a simple website using bootstrap.
 
 # Technologies Used
 
 * HTML
 * CSS
+* [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
 # Author
 
